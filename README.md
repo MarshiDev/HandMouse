@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">HandTrack</h1>
-<h2>What is this?</h2>
+# HandTrack
+## What is this?
 HandTrack is a python implementation of google's mediapipe library, using their Hand-Landmarker AI model and OpenCV. (All rights for the model belong to them, I do not own the model nor the mediapipe library)<br>
 Included in the project is also another script using the same library with the same model, OpenCV, and pygame, to allow the user to paint on a canvas using their hands.
 
